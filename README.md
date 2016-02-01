@@ -1,3 +1,3 @@
 # playground
 
-Checking git push from windows
+Checking git push
